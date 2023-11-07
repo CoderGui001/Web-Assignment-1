@@ -100,7 +100,7 @@ img{
 }
 
 #Title-kiwi{
-    margin-top: 35px;
+    margin-top: 10px;
     text-align: center;
 
 }
@@ -137,7 +137,7 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(17, 138, 25);
+    background-color: rgb(120, 138, 17);
     height: 35px;
   }
   
@@ -149,7 +149,8 @@ img{
 .SS-names{
     display: flex;
     margin-left: 20px;
-    font-size: 11px;
+    font-size: 12px;
+    margin-top: 10px;
     
 }
 
