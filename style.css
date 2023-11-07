@@ -5,13 +5,13 @@
  }
  .MainPara{
 
-    margin-left: 100px;
-    width: 620px;
+    margin-left: 120px;
+    width: 680px;
     height: 136px;
 
     [class="P1"]{
     
-        font-size: 20px;
+        font-size: 22px;
         text-align: justify;
         display: inline-flexbox;
             
@@ -22,6 +22,7 @@
  .mainHeading{
     margin-left: 50px;
     font-size: 40px;
+    
  }
 
 
@@ -35,6 +36,7 @@
 .image-container{
 
     margin-left: 150px;
+    margin-top: 10px;
     width: 207px;
     height: 307px;
     display: flex;
@@ -84,7 +86,7 @@ img{
 
 .Right-column{
     margin-left: 40px;
-    margin-top: auto;
+    margin-top: 40px;
     margin-right: auto;
     margin-bottom: auto;
     width: 278px;
@@ -180,7 +182,7 @@ img{
 .image5{
     width: 450px;
     height: 1%;
-    margin-top: 40px;
+    margin-top: 25px;
     margin-left: 250px;
 }
 
@@ -199,7 +201,12 @@ img{
     width: 20px;
     height: 20px;
     background-color: red;
-    justify-content: center;
+    margin-top: 23px;
+}
+
+.box-red-Container{
+    display: flex;
+    margin-left: -30px;
 }
 
 .blue-squre{
@@ -211,4 +218,5 @@ img{
 
 .sub-title-blue{
     display: flex;
+    margin-left: -30px;
 }
