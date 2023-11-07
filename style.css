@@ -1,4 +1,9 @@
  /* Paragraph 1 */
+ .page1{
+   
+    justify-content: center;
+    align-items: center;
+ }
  .MainPara{
 
     margin-left: 100px;
