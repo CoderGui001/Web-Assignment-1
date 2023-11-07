@@ -187,8 +187,8 @@ img{
 .page1{
 
     
-    justify-content: center;
-    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
     width: 1000px;
     
 
@@ -202,8 +202,13 @@ img{
     justify-content: center;
 }
 
-/* .box-red-Container{
+.blue-squre{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(0, 81, 255);
+    margin-top: 23px;
+}
+
+.sub-title-blue{
     display: flex;
-    
-    
-} */
+}
