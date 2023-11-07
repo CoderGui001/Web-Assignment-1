@@ -1,0 +1,164 @@
+ /* Paragraph 1 */
+ .MainPara{
+
+    margin-left: 100px;
+    width: 620px;
+    height: 136px;
+
+    [class="P1"]{
+    
+        font-size: 20px;
+        text-align: justify;
+        display: inline-flexbox;
+            
+    }
+    
+    
+ }
+ .mainHeading{
+    margin-left: 50px;
+    font-size: 40px;
+ }
+
+
+
+#High-light-as-red{
+    color: red;
+}
+
+/* Three Kiwi's Images  */
+
+.image-container{
+
+    margin-left: 150px;
+    width: 207px;
+    height: 307px;
+    display: flex;
+} 
+
+
+img{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 45% ;
+    margin-right: 5px;
+}
+
+[class="P2"]{
+    
+    font-size: 15px;
+    text-align: justify;
+    display: inline-flexbox;
+    
+}
+
+[class="P3"]{
+    
+    font-size: 15px;
+    text-align: justify;
+    display: inline-flexbox;
+    
+}
+
+.left-column{
+    margin-left: 150px;
+    width: 350px;
+    height: 307px;
+}
+
+.Right-column{
+    margin-left: 40px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 278px;
+    height: 760px;
+    background-color: rgb(202, 202, 202);
+}
+
+.bottom-main{
+    margin-top: 50px;
+    display: flex;
+}
+
+#Title-kiwi{
+    margin-top: 35px;
+    text-align: center;
+
+}
+
+#sub-titleoFkiwi{
+    text-align: center;
+    margin: -15px;
+      
+    
+}
+
+
+.img4-container{
+    
+    width: 75%;
+    margin: auto;
+    
+}
+
+#img4{
+    margin-top:21px;
+       
+}
+
+#north-island-brown-kiwi{
+    color: blue;
+    text-align: center;
+    margin-top: 4px;
+
+}
+
+
+.Scientific-Specification-BC {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(17, 138, 25);
+    height: 35px;
+  }
+  
+  #Scientific-Specification {
+    color: aliceblue;
+    
+  }
+
+.SS-names{
+    display: flex;
+    margin-left: 20px;
+    font-size: 11px;
+    
+}
+
+.center-dots{
+    margin-left: 14px;
+}
+.Right-blue-names{
+    margin-left: 14px;
+    color: blue;
+}
+
+.Type-Species-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(175, 0, 56);
+    height: 35px;
+    margin-top: 30px;
+
+}
+#Type-Species-title{
+    color: white;
+}
+
+.Apteryx-australis-texts{
+    color: blue;
+    text-align: center;
+}
+
